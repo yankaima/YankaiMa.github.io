@@ -2,32 +2,15 @@
 
 ### About me
 
-I am pursuing my PhD degree in my second yearMarkdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently my PhD degree in the third year from  University of Elecronic Science and Technology of China, Chengdu. My supervisor is Prof. shiwen Yang.
+My research focues on unconventional array synthesis, time-modulate array and ultrawideband array.
 
-```markdown
-Syntax highlighted code block
+Email: mayankai@std.uestc.edu.cn
 
-# Header 1
-## Header 2
-### Header 3
+Publications
 
-- Bulleted
-- List
+Y. Ma, S. Yang, Y. Chen, S. Qu and J. Hu, "Pattern Synthesis of 4-D Irregular Antenna Arrays Based on Maximum-Entropy Model," in IEEE Transactions on Antennas and Propagation, vol. 67, no. 5, pp. 3048-3057, May 2019, doi: 10.1109/TAP.2019.2896730.
 
-1. Numbered
-2. List
+Y. Ma, S. Yang, Y. Chen, S. Qu and J. Hu, "Sparsely Excited Tightly Coupled Dipole Arrays Based on Irregular Array Techniques," in IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2020.2985383.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yankaima/YankaiMa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Y. Hong, S. Yang, Y. Ma, Y. Chen and S. Qu, "Thinned Planar Array Synthesis Based On Multiagent Genetic Algorithm," 2019 IEEE MTT-S International Wireless Symposium (IWS), Guangzhou, China, 2019, pp. 1-3, doi: 10.1109/IEEE-IWS.2019.8803881.
