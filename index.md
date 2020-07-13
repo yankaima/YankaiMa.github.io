@@ -9,7 +9,7 @@ Email: mayankai@std.uestc.edu.cn
 
 Publications
 
-Y. Ma, S. Yang, Y. Chen, S. Qu and J. Hu, "Pattern Synthesis of 4-D Irregular Antenna Arrays Based on Maximum-Entropy Model," in IEEE Transactions on Antennas and Propagation, vol. 67, no. 5, pp. 3048-3057, May 2019, doi: 10.1109/TAP.2019.2896730.
+<b>Y. Ma<b>, S. Yang, Y. Chen, S. Qu and J. Hu, "Pattern Synthesis of 4-D Irregular Antenna Arrays Based on Maximum-Entropy Model," in IEEE Transactions on Antennas and Propagation, vol. 67, no. 5, pp. 3048-3057, May 2019, doi: 10.1109/TAP.2019.2896730.
 
 Y. Ma, S. Yang, Y. Chen, S. Qu and J. Hu, "Sparsely Excited Tightly Coupled Dipole Arrays Based on Irregular Array Techniques," in IEEE Transactions on Antennas and Propagation, doi: 10.1109/TAP.2020.2985383.
 
